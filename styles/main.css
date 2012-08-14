@@ -1,0 +1,33 @@
+body
+{
+    margin-left: 4px;
+    margin-right: 4px;
+    font-size:62.5%;
+}
+
+h1
+{
+	font-size:1.6em;
+    font-weight:bold;
+    color:#036;
+}
+
+#butn 
+{
+    font-size:1.6em; 
+}
+
+#bigger 
+{
+	font-size:1.9em;    
+}
+
+.ui-footer
+{
+    text-align: center;    
+}
+
+.err
+{
+    color: red;
+}
